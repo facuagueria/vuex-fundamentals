@@ -5,6 +5,9 @@
 
 <script>
 export default {
+  name: 'ErrorDisplay',
   props: ['error']
 }
 </script>
+
+<style scoped></style>
